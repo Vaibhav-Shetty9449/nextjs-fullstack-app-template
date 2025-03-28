@@ -1,0 +1,9 @@
+/* Custom scrollbars */
+.sb-docs-container::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  /* Dark mode support */
+  .sb-dark .docs-story {
+    background: #1e1e1e;
+  }
